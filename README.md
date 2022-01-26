@@ -6,7 +6,7 @@
                     www.linkedin.com/in/sameer-panigrahi
                 or kp.sameer89@gmail.com
                 
-I'm a full timer profession and along with my profession I keep try to convert an idea into a reality ..I dont see if thats a small impact or a large but the fun part is almost every aspect I have failed so far. few ideas to I can proudly share 
+I'm a full timer profession and along with my profession I keep trying to convert an idea into a reality ..I dont see if thats a small impact or a large but the fun part is almost every aspect I have failed so far. few ideas to I can proudly share 
 
 These are all collaborated projects with Hardware integration done and the success was till a prototype. 
 1 : Wisys : <Wireless system > An application where the data can be transferred from a remote place like how many units of electricity generated from a windmill. 
